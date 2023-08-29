@@ -1,15 +1,6 @@
 {
   "tasks": [
     {
-      "value": "Schedule a meeting",
-      "dueDate": "2023-08-14T06:30:00.000Z",
-      "date": 1691994600000,
-      "completion": false,
-      "category": "Work",
-      "detail": "with colleagues ",
-      "id": 1
-    },
-    {
       "value": "Write an essay",
       "dueDate": "2023-08-17T09:15:00.000Z",
       "date": 1692263700000,
@@ -17,15 +8,6 @@
       "category": "School",
       "detail": "for english class",
       "id": 2
-    },
-    {
-      "value": "Buy groceries",
-      "dueDate": "2023-08-16T17:00:00.000Z",
-      "date": 1692205200000,
-      "completion": false,
-      "category": "Home",
-      "detail": "for dinner",
-      "id": 4
     },
     {
       "value": "Make an appointment",
@@ -37,35 +19,44 @@
       "id": 5
     },
     {
-      "value": "fenwgjklr;i3oe'wds",
-      "dueDate": "2023-08-24T11:30:00.000Z",
-      "date": 1692876600000,
-      "completion": true,
-      "category": "School",
-      "detail": "",
+      "value": "Go shopping",
+      "dueDate": "2023-09-03T20:02:20.000Z",
+      "date": 1693771340000,
+      "completion": false,
+      "category": "Home",
+      "detail": "for ...",
+      "id": 6
+    },
+    {
+      "value": "Buy groceries",
+      "dueDate": "2023-09-02T20:02:54.000Z",
+      "date": 1693684974000,
+      "completion": false,
+      "category": "Home",
+      "detail": "for lunch",
       "id": 7
     },
     {
-      "value": "rgkertwr",
-      "dueDate": "2023-08-25T12:15:00.000Z",
-      "date": 1692965700000,
-      "completion": true,
+      "value": "Meeting",
+      "dueDate": "2023-09-05T20:03:19.000Z",
+      "date": 1693944199000,
+      "completion": false,
       "category": "Work",
-      "detail": "rfegmkl/;",
+      "detail": "with ...",
       "id": 8
     },
     {
-      "value": "fdgfde",
-      "dueDate": "2023-08-17T12:30:00.000Z",
-      "date": 1692275400000,
-      "completion": true,
-      "category": "Work",
-      "detail": "fd,mnj.ehj///bs,hgrn:KF\"HDpsa;vkbj/sMC",
+      "value": "Pay for school",
+      "dueDate": "2023-09-14T20:00:00.000Z",
+      "date": 1694721600000,
+      "completion": false,
+      "category": "School",
+      "detail": "5000",
       "id": 9
     }
   ],
   "categories": [
-    {
+     {
       "id": "1",
       "label": "All Tasks",
       "value": ""
@@ -91,7 +82,7 @@
     {
       "value": "School",
       "label": "School",
-      "color": "#20AD1B",
+      "color": "#20BD1B",
       "id": "chUHol5"
     }
   ]
